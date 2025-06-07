@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ddm1nFBZWmFCyl8Tsqw9FHL4kYLczvbjnY5SOe0X0To=",
+  "Source": "StokTakipApi",
+  "BasePath": "_content/StokTakipApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
